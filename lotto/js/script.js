@@ -7,4 +7,6 @@ function lottoRad() {
 	 	document.getElementById ("lotto_" + i).innerHTML = lottery;
 
 	}
+	
+	h1 Lotto-generator
 }
